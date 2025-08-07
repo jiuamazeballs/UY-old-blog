@@ -2,7 +2,7 @@
 title: "Introvert, Extrovert, Ambivert — Labels that may be limiting your mental growth"
 description: "Here's the catch, all labels feel like a shortcut to knowing yourself, but sometimes they're the quickest path to self-imposed limitation."
 date: 2025-08-07
-image: "../../assets/images/introvert extrovert-compressed.webp"
+image: "../../assets/images/Introvert extrovert-compressed.webp"
 authors: ["jiu"]
 categories: ["Mental Health"]
 tags: ["introvert", "mental health", "extrovert", "ambivert", "Alfred Adler", "psychology", "personality"]
