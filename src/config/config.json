@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Unburdened You Blog",
-    "base_url": "https://unburdenedyou.com/blog",
+    "base_url": "https://blog.unburdenedyou.com",
     "logo_text": "Unburdened You",
     "favicon": "/logo.ico",
     "logo": "../../assets/images/6.webp"
@@ -12,7 +12,7 @@
     "meta_keywords": "personal development, mental health, lifestyle, wellness, self-improvement, adlerian-psychology, jiu-jitsu, mindfulness",
     "meta_image": "../../assets/images/6.png"
   },
-  "contactInfo": {
+  "contactinfo": {
     "address": "Unburdened You Blog",
     "email": "blog@unburdenedyou.org",
     "phone": "+12345678900"
