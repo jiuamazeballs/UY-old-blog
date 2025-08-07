@@ -1,22 +1,21 @@
 {
   "site": {
-    "trailing_slash": true,
-    "favicon": "/favicon.ico"
+    "title": "Unburdened You Blog",
+    "base_url": "https://unburdenedyou.com/blog",
+    "logo_text": "Unburdened You",
+    "favicon": "/logo.ico",
+    "logo": "../../assets/images/6.webp"
   },
-
-  "settings": {
-  },
-
   "metadata": {
+    "meta_author": "Jiu",
+    "meta_description": "Blogs and articles about personal development, mental health, and lifestyle.",
+    "meta_keywords": "personal development, mental health, lifestyle, wellness, self-improvement, adlerian-psychology, jiu-jitsu, mindfulness",
+    "meta_image": "../../assets/images/6.png"
   },
-
-  "params": {
-    "contact_form_action": "#"
-  },
-
-  "contactinfo": {
+  "contactInfo": {
     "address": "Your Address",
     "email": "your.email@example.com",
     "phone": "+1 234 567 8900"
   }
 }
+

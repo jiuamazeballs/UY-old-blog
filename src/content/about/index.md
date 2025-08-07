@@ -1,35 +1,29 @@
 ---
-title: "About"
+title: "About Unburdened You"
 meta_title: "About"
-image: "/src/assets/images/avatar-placeholder.svg"
+image: "/src/assets/images/favicon.png"
 draft: false
 
 what_i_do:
-  title: "What We Do"
+  title: "Your ultimate guide to mental well-being"
   items:
-    - title: "Content Creation"
-      description: "High-quality content tailored to your audience."
+    - title: "Blogs"
+      description: "High-quality mental health related content based on Individual Psychology."
 
-    - title: "Web Development"
-      description: "Modern websites built with cutting-edge technologies."
+    - title: "Short-Term Changes"
+      description: "Sometimes you need to detach yourself from the situation in hand in order to be able to think clearly."
 
-    - title: "Digital Marketing"
-      description: "Strategic marketing solutions to grow your online presence."
+    - title: "Long-term healing"
+      description: "Strategic approaches to take charge of your mental health and well-being."
 ---
 
-Welcome to our company! We are a dedicated team of professionals passionate about delivering exceptional digital solutions to businesses of all sizes. With years of experience in the industry, we've developed a deep understanding of what it takes to succeed in today's fast-paced digital landscape.
+Unpacking mental wellness — one assessment, one insight, one step at a time.
 
-Our mission is simple: to help our clients achieve their goals through innovative technology and strategic thinking. We believe that every business deserves a strong online presence, and we're committed to making that a reality for each of our clients.
+At Unburdened You, we believe everyone deserves a lighter mind and a brighter day. Our mission is to make mental health support accessible, relatable, and—dare we say—enjoyable. Drawing from decades of experience, a love for practical psychology, and a dash of wisdom from books and research, we offer real-world strategies, interactive tools, and honest conversations about anxiety and wellbeing.
 
-What sets us apart is our holistic approach to digital solutions. We don't just build websites; we create comprehensive digital experiences that engage your audience and drive results. Our team stays up-to-date with the latest trends and technologies to ensure that our clients always receive cutting-edge solutions.
+​
 
-We understand that every business is unique, which is why we take the time to understand your specific needs and goals. This allows us to create customized solutions that address your challenges and capitalize on your opportunities.
-
-Our values of integrity, excellence, and innovation guide everything we do. We believe in building long-term relationships with our clients based on trust and mutual success. When you work with us, you're not just getting a service provider; you're gaining a dedicated partner committed to your growth.
-
-We're proud of the work we've done and the clients we've helped. Our portfolio spans various industries, from small local businesses to large enterprises, and we bring the same level of commitment and expertise to every project we undertake.
-
-Thank you for considering our company for your digital needs. We look forward to the opportunity to work with you and help your business thrive in the digital world.
+Whether you’re here for quick tips, in-depth resources, or just a safe space to breathe, you’re in good company. We’re not about perfection—we’re about progress, self-compassion, and finding joy in the journey. Welcome to your new mental wellness toolkit!
 
 ## Get In Touch With Us
 

@@ -1,23 +1,24 @@
 // Site configuration
 export const siteConfig = {
   // Site details from config.json:site
-  title: "Bit Doze Astro Blog Theme", // from config.json:site.title
-  // description is used from existing site.ts, will be updated by config.json:metadata.meta_description
-  // url is removed, Astro.site will be used
+  title: "Unburdened You", // from config.json:site.title
+  description: "Blogs and articles about personal development, mental health, and lifestyle.", // from config.json:site.description
+  Url: "https://unburdenedyou.com/blog", // from config.json
+  
 
   // from config.json:site (logo related)
-  logo: "/logo.svg",
+  logo: "../../assets/images/6.webp",
   logoWidth: "200",
   logoHeight: "30",
-  logoText: "Bit Doze Astro Blog Theme",
+  logoText: "Unburdened You",
 
   // SEO metadata from config.json:metadata
-  author: "Your Name", // from config.json:metadata.meta_author
-  description: "A modern, responsive blog theme for Astro with support for tags, categories, and series.", // from config.json:metadata.meta_description
-  ogImage: "/images/og-image.png", // from config.json:metadata.meta_image (replaces defaultImage)
+  author: "Jiu", // from config.json:metadata.meta_author
+  description: "Blogs and articles about personal development, mental health, and lifestyle.", // from config.json:metadata.meta_description
+  ogImage: "../../assets/images/6.webp", // from config.json:metadata.meta_image (replaces defaultImage)
 
   // Pagination settings from config.json:settings
-  postsPerPage: 11, // from config.json:settings.pagination
+  postsPerPage: 20, // from config.json:settings.pagination
   summaryLength: 100, // from config.json:settings.summary_length
   
   // SEO settings (existing in site.ts)

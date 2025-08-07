@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Blog",
       "url": "/"
     },
     {
@@ -42,8 +42,8 @@
     },
 
     {
-      "name": "Contact",
-      "url": "/contact/"
+      "name": "Unburdened You Website",
+      "url": "www.unburdenedyou.org"
     }
   ],
   "footer": [
