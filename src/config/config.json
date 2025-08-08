@@ -16,6 +16,9 @@
     "address": "Unburdened You Blog",
     "email": "blog@unburdenedyou.org",
     "phone": "+12345678900"
+  },
+  "params": {
+    "contact_form_action": ""
   }
 }
 
