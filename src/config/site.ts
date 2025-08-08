@@ -3,7 +3,7 @@ export const siteConfig = {
   // Site details from config.json:site
   title: "Unburdened You", // from config.json:site.title
   description: "Blogs and articles about personal development, mental health, and lifestyle.", // from config.json:site.description
-  Url: "https://unburdenedyou.com/blog", // from config.json
+  Url: "https://blog.unburdenedyou.org", // from config.json
   
 
   // from config.json:site (logo related)
