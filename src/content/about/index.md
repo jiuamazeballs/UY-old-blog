@@ -1,7 +1,7 @@
 ---
 title: "About Unburdened You"
 meta_title: "About"
-image: "/src/assets/images/6.webp"
+image: "../../assets/images/6.webp"
 draft: false
 
 what_i_do:
