@@ -39,5 +39,6 @@ The journey forward requires both personal courage and institutional responsibil
 ### Conclusion: You are not failing—you are navigating a broken system
 
 International students are not falling short because of personal flaws; they are navigating systems that are too often broken and unforgiving. The antidote lies in connection, clarity, and courage—the courage to embrace new definitions of success, the clarity to see self-worth beyond titles, and the connection that fuels belonging and growth. Reflect with me today: What part of your story deserves more compassion—and how can you unburden it now? Because in opening space for that compassion, healing begins.
-If you’re an international student feeling this weight, remember you’re not alone—and here at Unburdened You, your story matters. Feel free to reach out to us via our **Contact Us** page.
+If you’re an international student feeling this weight, remember you’re not alone—and here at Unburdened You, your story matters. Feel free to reach out to us via our **Contact Us- About** page.
+
 
