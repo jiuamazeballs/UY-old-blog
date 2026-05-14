@@ -28,6 +28,4 @@ Whether you’re here for quick tips, in-depth resources, or just a safe space t
 ## Get In Touch With Us
 
 - [Contact Us](/contact/)
-- [Privacy Policy]((https://www.unburdenedyou.org/privacy)
-- [Terms of Service](/terms/)
-- [Blog](/blog/)
+
